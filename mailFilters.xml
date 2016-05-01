@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1260171789744,1316819145540,1365467413894</id>
+	<updated>2016-04-15T01:33:47Z</updated>
+	<author>
+		<name>Pedro reyes alejandre</name>
+		<email>reyesalejandre@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1260171789744</id>
+		<updated>2016-04-15T01:33:47Z</updated>
+		<content></content>
+		<apps:property name='from' value='reyesalejandre@gmail.com'/>
+		<apps:property name='to' value='reyesalejandre@hotmail.com'/>
+		<apps:property name='subject' value='filtro de actualizacion'/>
+		<apps:property name='hasTheWord' value='gmail'/>
+		<apps:property name='hasAttachment' value='true'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldStar' value='true'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1316819145540</id>
+		<updated>2016-04-15T01:33:47Z</updated>
+		<content></content>
+		<apps:property name='from' value='reyesalejandre@hotmail.com'/>
+		<apps:property name='to' value='reyesalejandre@hotmail.es'/>
+		<apps:property name='subject' value='solicitud de coordon'/>
+		<apps:property name='forwardTo' value='alejandrereyes@yahoo.co.uk'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1365467413894</id>
+		<updated>2016-04-15T01:33:47Z</updated>
+		<content></content>
+		<apps:property name='from' value='reyesalejandre@gmail.com'/>
+		<apps:property name='to' value='tepotzotlan@facebook.com'/>
+		<apps:property name='subject' value='solicitud  de  acoordonamiento'/>
+		<apps:property name='hasAttachment' value='true'/>
+		<apps:property name='label' value='Trabajo'/>
+		<apps:property name='forwardTo' value='alejandrereyes@yahoo.co.uk'/>
+	</entry>
+</feed>
